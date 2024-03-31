@@ -1,2 +1,3 @@
 # gitguru-Demo
-My first repos.
+My first github repos.
+Author-Sai Tejas B S
